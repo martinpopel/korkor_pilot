@@ -183,7 +183,7 @@
 3	vallási	vallási	[/Adj][Nom]	ADJ	Case=Nom|Degree=Pos|Number=Sing	ATT	4	_	_	_	_	_
 4	szimbólumot	szimbólum	[/N][Acc]	NOUN	Case=Acc|Number=Sing	OBJ	12	8:12	coref	_	_	_
 5	a	a	[/Det|Art.Def]	DET	Definite=Def|PronType=Art	DET	7	_	_	_	_	_
-4	14.	14.	[/Num|Digit][_Ord/Adj][Nom][]	ADJ	Case=Nom|Number=Sing|NumType=Ord	ATT	7	_	_	_	_	_
+6	14.	14.	[/Num|Digit][_Ord/Adj][Nom][]	ADJ	Case=Nom|Number=Sing|NumType=Ord	ATT	7	_	_	_	_	_
 7	században	század	[/N][Ine]	NOUN	Case=Ine|Number=Sing	TLOCY	8	_	_	_	_	_
 8	írt	írt	[/Adj][Nom]	ADJ	Case=Nom|Degree=Pos|Number=Sing	ATT	11	_	_	_	_	_
 9	zsidó	zsidó	[/Adj][Nom]	ADJ	Case=Nom|Degree=Pos|Number=Sing	ATT	11	_	_	_	_	_

@@ -141,7 +141,7 @@
 12	(	(	[Punct]	PUNCT	_	PUNCT	13	_	_	_	_	_
 13	3000-20000/min	3000-20000/min	[/N][Nom]	NOUN	Case=Nom|Number=Sing	APPEND	11	_	_	_	_	_
 14	)	)	[Punct]	PUNCT	_	PUNCT	13	_	_	_	_	_
-12	.	.	[Punct]	PUNCT	_	PUNCT	0	_	_	_	_	_
+15	.	.	[Punct]	PUNCT	_	PUNCT	0	_	_	_	_	_
 
 # sent_id = huwiki_12.conllup_7
 1	Az	az	[/Det|Art.Def]	DET	Definite=Def|PronType=Art	DET	3	_	_	_	_	_
@@ -316,7 +316,7 @@
 12	.	.	[Punct]	PUNCT	_	PUNCT	0	_	_	_	_	_
 
 # sent_id = huwiki_12.conllup_15
-1	Ha	ha	[/Cnj]	SCONJ	_	CONJ	19	_	_	_	_	_
+1	Ha	ha	[/Cnj]	SCONJ	_	CONJ	20	_	_	_	_	_
 2	a	a	[/Det|Art.Def]	DET	Definite=Def|PronType=Art	DET	3	_	_	_	_	_
 3	gép	gép	[/N][Nom]	NOUN	Case=Nom|Number=Sing	SUBJ	4	13:3	coref	_	_	_
 4	nincs	nincs	[/V][Prs.NDef.3Sg]	VERB	Definite=Ind|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ATT	1	_	_	_	_	_
@@ -324,19 +324,19 @@
 6	az	az	[/Det|Art.Def]	DET	Definite=Def|PronType=Art	DET	7	_	_	_	_	_
 7	állapotra	állapot	[/N][Subl]	NOUN	Case=Sub|Number=Sing	OBL	8	_	_	_	_	_
 8	méretezve	méretez	[/V][_AdvPtcp/Adv]	ADV	VerbForm=Conv	MODE	4	_	_	_	_	_
-9	,	,	[Punct]	PUNCT	_	PUNCT	19	_	_	_	_	_
-9	akkor	akkor	[/Adv|Pro]	PRON	Case=Nom|Number=Sing|Person=3|PronType=Prs	CONJ	19	_	_	_	_	_
-10	a	a	[/Det|Art.Def]	DET	Definite=Def|PronType=Art	DET	12	_	_	_	_	_
-11	nagy	nagy	[/Adj][Nom]	ADJ	Case=Nom|Degree=Pos|Number=Sing	ATT	12	_	_	_	_	_
-12	áram	áram	[/N][Nom]	NOUN	Case=Nom|Number=Sing	SUBJ	???	14:5	coref	_	_	_
-13	túlmelegedést	túlmelegedés	[/N][Acc]	NOUN	Case=Acc|Number=Sing	OBJ	???	_	_	_	_	_
-14	,	,	[Punct]	PUNCT	_	PUNCT	???	_	_	_	_	_
-15	a	a	[/Det|Art.Def]	DET	Definite=Def|PronType=Art	DET	17	_	_	_	_	_
-16	nagy	nagy	[/Adj][Nom]	ADJ	Case=Nom|Degree=Pos|Number=Sing	ATT	17	_	_	_	_	_
-17	nyomaték	nyomaték	[/N][Nom]	NOUN	Case=Nom|Number=Sing	SUBJ	19	14:8	coref	_	_	_
-18	törést	törés	[/N][Acc]	NOUN	Case=Acc|Number=Sing	OBJ	19	_	_	_	_	_
-19	okozhat	okoz	[/V][_Mod/V][Prs.NDef.3Sg]	VERB	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ROOT	0	_	_	_	_	_
-20	.	.	[Punct]	PUNCT	_	PUNCT	0	_	_	_	_	_
+9	,	,	[Punct]	PUNCT	_	PUNCT	20	_	_	_	_	_
+10	akkor	akkor	[/Adv|Pro]	PRON	Case=Nom|Number=Sing|Person=3|PronType=Prs	CONJ	20	_	_	_	_	_
+11	a	a	[/Det|Art.Def]	DET	Definite=Def|PronType=Art	DET	13	_	_	_	_	_
+12	nagy	nagy	[/Adj][Nom]	ADJ	Case=Nom|Degree=Pos|Number=Sing	ATT	13	_	_	_	_	_
+13	áram	áram	[/N][Nom]	NOUN	Case=Nom|Number=Sing	SUBJ	???	14:5	coref	_	_	_
+14	túlmelegedést	túlmelegedés	[/N][Acc]	NOUN	Case=Acc|Number=Sing	OBJ	???	_	_	_	_	_
+15	,	,	[Punct]	PUNCT	_	PUNCT	???	_	_	_	_	_
+16	a	a	[/Det|Art.Def]	DET	Definite=Def|PronType=Art	DET	18	_	_	_	_	_
+17	nagy	nagy	[/Adj][Nom]	ADJ	Case=Nom|Degree=Pos|Number=Sing	ATT	18	_	_	_	_	_
+18	nyomaték	nyomaték	[/N][Nom]	NOUN	Case=Nom|Number=Sing	SUBJ	20	14:8	coref	_	_	_
+19	törést	törés	[/N][Acc]	NOUN	Case=Acc|Number=Sing	OBJ	20	_	_	_	_	_
+20	okozhat	okoz	[/V][_Mod/V][Prs.NDef.3Sg]	VERB	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ROOT	0	_	_	_	_	_
+21	.	.	[Punct]	PUNCT	_	PUNCT	0	_	_	_	_	_
 
 # sent_id = huwiki_12.conllup_16
 1	Generátorüzemben	generátorüzem	[/N][Ine]	NOUN	Case=Ine|Number=Sing	LOCY	5	_	_	_	_	_

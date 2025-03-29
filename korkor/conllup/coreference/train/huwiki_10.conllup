@@ -140,5 +140,5 @@
 5	nem	nem	[/Adv]	ADV	PronType=Neg	NEG	6	_	_	_	_	_
 6	túl	túl	[/Adv|AdjMod]	ADV	_	MODE	7	_	_	_	_	_
 7	nagyok	nagy	[/Adj][Pl][Nom]	ADJ	Case=Nom|Degree=Pos|Number=Plur	PRED	???	_	_	YES	_	_
-7	.	.	[Punct]	PUNCT	_	PUNCT	0	_	_	_	_	_
+8	.	.	[Punct]	PUNCT	_	PUNCT	0	_	_	_	_	_
 

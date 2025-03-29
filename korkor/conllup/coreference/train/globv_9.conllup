@@ -46,6 +46,7 @@
 10	találni	talál	[/V][Inf]	VERB	VerbForm=Inf|Voice=Act	INF	9	_	_	YES	_	_
 11	az	az	[/Det|Art.Def]	DET	Definite=Def|PronType=Art	DET	12	_	_	_	_	_
 12	oldalon	oldal	[/N][Supe]	NOUN	Case=Sup|Number=Sing	LOCY	10	2:12	coref	_	_	_
+13	TO_BE_DELETED	_	_	_	_	_	0	_	_	_	_	_
 14	beszámolókat	beszámoló	[/N][Pl][Acc]	NOUN	Case=Acc|Number=Plur	COORD	7	_	_	_	_	_
 15	az	az	[/Det|Art.Def]	DET	Definite=Def|PronType=Art	DET	18	_	_	_	_	_
 16	egyes	egyes	[/Num][Nom]	NUM	Case=Nom|Number=Sing|NumType=Card	ATT	18	_	_	_	_	_

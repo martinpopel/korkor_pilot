@@ -166,7 +166,7 @@
 21	)	)	[Punct]	PUNCT	_	PUNCT	19	_	_	_	_	_
 22	fordulhat	fordul	[/V][_Mod/V][Prs.NDef.3Sg]	VERB	Definite=Ind|Mood=Pot|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ATT	???	_	_	_	_	_
 23	elő	elő	[/Prev]	ADV	_	PREVERB	22	_	_	_	_	_
-34	.	.	[Punct]	PUNCT	_	PUNCT	0	_	_	_	_	_
+24	.	.	[Punct]	PUNCT	_	PUNCT	0	_	_	_	_	_
 
 # sent_id = huwiki_31.conllup_9
 1	Ez	ez	[/Det|Pro][Nom]	PRON	Case=Nom|Number=Sing|Person=3|PronType=Dem	SUBJ	6	???	dem	_	_	_

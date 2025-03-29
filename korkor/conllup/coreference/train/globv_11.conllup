@@ -62,6 +62,7 @@
 20	körülötte	körül	[/Post][3Sg]	ADP	_	MODE	21	_	_	_	_	_
 21	lévőkre	lévő	[/Adj][Pl][Subl]	ADJ	Case=Sub|Degree=Pos|Number=Plur	OBL	18	_	_	_	_	_
 22	,	,	[Punct]	PUNCT	_	PUNCT	18	_	_	_	_	_
+23	TO_BE_DELETED	_	_	_	_	_	0	_	_	_	_	_
 24	véve	vesz	[/V][_AdvPtcp/Adv]	ADV	VerbForm=Conv	MODE	18	_	_	_	_	_
 25	azokat	az	[/N|Pro][Pl][Acc]	PRON	Case=Acc|Number=Plur|Person=3|PronType=Dem	OBJ	24	_	_	_	_	_
 26	is	is	[/Adv]	ADV	_	MODE	25	_	_	_	_	_
