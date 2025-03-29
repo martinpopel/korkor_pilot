@@ -68,6 +68,7 @@
 12	félreteszi	félretesz	[/V][Prs.Def.3Sg]	VERB	Definite=Def|Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin|Voice=Act	ATT	10	_	_	YES	_	_
 13	a	a	[/Det|Art.Def]	DET	Definite=Def|PronType=Art	DET	16	_	_	_	_	_
 14	kedvenc	kedvenc	[/Adj|Attr][Nom]	ADJ	Case=Nom|Degree=Pos|Number=Sing	ATT	16	_	_	_	_	_
+15	TO_BE_DELETED	_	_	_	_	_	0	_	_	_	_	_
 16	regényét	regény	[/N][Poss.3Sg][Acc]	NOUN	Case=Acc|Number=Sing|Number[psor]=Sing|Person[psor]=3	OBJ	12	_	_	_	_	YES
 17	vagy	vagy	[/Cnj]	CCONJ	_	CONJ	16	_	_	_	_	_
 18	akármijét	akármi	[/N|Pro][Poss.3Sg][Acc]	PRON	Case=Acc|Number=Sing|Number[psor]=Sing|Person=3|Person[psor]=3|PronType=Ind	COORD	17	_	_	_	_	_
